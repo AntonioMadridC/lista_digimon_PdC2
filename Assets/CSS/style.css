@@ -1,0 +1,19 @@
+.digimg{
+    height: 5em;
+    width: auto;
+}
+body{
+    background-image: url('https://vignette.wikia.nocookie.net/digimon/images/5/50/Wiki-background/revision/latest?cb=20101115233003');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.table{
+    background-color: aliceblue;
+}
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
